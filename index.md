@@ -17,10 +17,8 @@ Location: Moscow, Russia
 
 Languages: Russian (native), English (intermediate), Japanese (basic)
 
-### Contact me
-
-[alexhlins@gmail.com](mailto:alexhlins@gmail.com)
-
+### Contacts
+* **E-mail**: [Here](mailto:alexhlins@gmail.com)
 * **GitHub**: [Here](https://github.com/AlexHLinS/)
 * **Telegram**: [Here](https://t.me/alexhlins)
 * **VK**: [Here](https://vk.com/hlins)
