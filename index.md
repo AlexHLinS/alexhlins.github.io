@@ -1,18 +1,30 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: Alex Shkil CV
 ---
 
-Some information about you!
+Good day! 
 
-### More Information
+My name is ***Alex Shkil*** 
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm an programers enthusiast with more than 20 years of engineering background.
+
+### About
+
+Age: 37 
+
+Location: Moscow, Russia
+
+Languages: Russian (native), English (intermediate), Japanese (basic)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alexhlins@gmail.com](mailto:alexhlins@gmail.com)
+
+* **GitHub**: [Here](https://github.com/AlexHLinS/)
+* **Telegram**: [Here](https://t.me/alexhlins)
+* **VK**: [Here](https://vk.com/hlins)
+* **ResearchGate**: [Here](https://www.researchgate.net/profile/Aleksey-Shkil)
 
 <!---
 AlexHLinS/AlexHLinS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
